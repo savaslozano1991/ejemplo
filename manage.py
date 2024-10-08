@@ -5,9 +5,9 @@ import sys
 
 
 def main():
-    """Run administrative tasks."""
+    """Run administrativxcvxcvxxe tasks."""
     os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'DjangoProject.settings')
-    try:
+    try:zxczcvxcvcvvbfnxcb
         from django.core.management import execute_from_command_line
     except ImportError as exc:
         raise ImportError(
